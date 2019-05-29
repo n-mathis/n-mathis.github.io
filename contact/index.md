@@ -1,19 +1,12 @@
 ---
 layout: contact
 ---
+social media you can contact me at!
 
-**etsy**
+**email:** nanarhmathis@gmail.com
 
-https://www.etsy.com/shop/threadcraftnbeyond
+**etsy:** https://www.etsy.com/shop/threadcraftnbeyond
 
-**email**
+**linkedin:** https://www.linkedin.com/in/nana-m-645737aa
 
-nanarhmatil@gmail.com
-
-**linkedin**
-
-https://www.linkedin.com/in/nana-m-645737aa
-
-**github**
-
-https://github.com/n-mathis
+**github:** https://github.com/n-mathis
