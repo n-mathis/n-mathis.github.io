@@ -4,10 +4,6 @@ layout: photography
 
 i do photography!
 
-**instagram**
+**instagram:** https://www.instagram.com/nmxcvii
 
-https://www.instagram.com/nmxcvii
-
-**flickr**
-
-https://www.flickr.com/
+**flickr:** https://www.flickr.com/
