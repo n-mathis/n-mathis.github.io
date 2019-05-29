@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<div class="portfolio">
+    <img src="assets/img/photo.jpg" width="150"/>
+    <ul>
+        <h3>Education:</h3>
+        {% for education in site.data.education %}
+        <li>
+            <span>{{ education.time }}</span>
+        </li>
+        <li>
+        <span>{{ education.title }}, {{ education.school }}, {{ education.college }}</span>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="portfolio">
+    <ul>
+        <h3>Projects:</h3>
+        {% for item in site.data.projects %}
+        <li>
+            <span>{{ item.name }}</span>
+        </li>
+        <li>
+            <span>{{ item.intro }}</span>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+

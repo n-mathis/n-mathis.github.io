@@ -1,0 +1,17 @@
+- title: home
+  url: /
+
+- title: about
+  url: /about
+
+- title: photography
+  url: /photography
+
+- title: contact
+  url: /contact
+
+- title: resume
+  url: https://github.com/n-mathis/n-mathis.github.io/raw/master/pdf/Mathis_NaNa_Resume.pdf
+
+- title: git repo
+  url: https://github.com/n-mathis/n-mathis.github.io
