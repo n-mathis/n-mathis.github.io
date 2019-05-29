@@ -2,8 +2,8 @@
 layout: photography
 ---
 
-i do photography!
+I do photography!
 
-**instagram:** https://www.instagram.com/nmxcvii
+**instagram:** [https://www.instagram.com/nmxcvii](https://www.instagram.com/nmxcvii).
 
-**flickr:** https://www.flickr.com/
+**flickr:** [https://www.flickr.com/photos/97410356@N07/?](https://www.flickr.com/photos/97410356@N07/?).
